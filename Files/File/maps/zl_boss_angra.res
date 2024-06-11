@@ -1,0 +1,15 @@
+models/zl/npc/angra/zl_oil.mdl
+sound/zl/npc/angra/skrip.wav
+models/zl/npc/angra/zl_crane_with_box.mdl
+models/zl/npc/angra/zl_sky.mdl
+sound/zl/npc/angra/roar.wav
+sound/zl/npc/angra/dead.wav
+sound/zl/npc/angra/event_cast2.wav
+sound/zl/npc/angra/event_cast.wav
+sound/zl/npc/angra/event_gb.wav
+sound/zl/npc/angra/event_fly.wav
+sound/zl/npc/angra/event_red.wav
+sound/zl/npc/angra/event_phase2.wav
+sound/zl/npc/angra/event01.wav
+sound/zl/npc/angra/prepare.wav
+models/zl/npc/angra/zl_sekret.mdl
